@@ -6,4 +6,6 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    s="1234567"
+    return s
+print(len[0::])
