@@ -6,7 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    s="python"
-    return s
-print(main[1])
+    a=s("python")
+    return a
+print(("python")[1])
    
