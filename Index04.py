@@ -6,8 +6,8 @@ def main(s):
     Returns:
         str: answer
     """
-    s="codeschool"
-    return s
-print(main[0:5])
+    a=s("codeschool")
+    return a
+print(("codeschool")[0:4])
    
  
