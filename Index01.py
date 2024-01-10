@@ -6,6 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    s="python"
-    return s
-print(main[0])
+    a=s("python")
+    return a
+print(("python")[0])
